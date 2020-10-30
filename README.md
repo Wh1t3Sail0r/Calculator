@@ -8,5 +8,5 @@
 - Trigonometric functions (sin, cos, tan, csc, sec, cot)
 - Inverse trigonometric functions (asin, acos, atan, acsc, asec, acot, or arcsin, arccos, arctan, arccsc, arcsec, arccot)
 - Logarithmic functions (ln and log)
-- Square root function (sqrt)
+- Square root function (root)
 - Errors for invalid domain (i.e. negative values for square root, negative values or 0 for logarithmic functions)
